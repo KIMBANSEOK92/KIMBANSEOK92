@@ -13,3 +13,6 @@
 
 ![러닝메인사이트](https://github.com/user-attachments/assets/61867ca7-fc41-4621-9643-192168d8aa46)
 메인페이지
+
+![러닝화 추천](https://github.com/user-attachments/assets/c03c673f-d209-40f3-8ece-f9abca33f958)
+카테고리 첫번째 본인의 맞는 러닝화 추천
