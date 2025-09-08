@@ -6,7 +6,7 @@
 5. 회원들의 시즌별로의 첼린지등을 넣어 티어를 나눈다.
 
 ![로그인페이지](https://github.com/user-attachments/assets/0323c450-a209-49b4-92fb-989c40a8325a)
-<span style="color: blue;> 로그인 페이지 생성 </span>
+로그인 페이지 생성 </span>
 
 <img width="902" height="663" alt="회원가입페이지" src="https://github.com/user-attachments/assets/14b5438d-d36d-4ff8-af29-0ee4503f06ba" />
 회원가입페이지 생성
