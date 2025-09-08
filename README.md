@@ -18,6 +18,7 @@
 카테고리 첫번째 본인의 맞는 러닝화 추천
 
 <img width="773" height="1673" alt="데이터1" src="https://github.com/user-attachments/assets/2657aff4-b936-4e85-acad-64476b20a860" />
-<img width="773" height="1673" alt="데이터1" src="https://github.com/user-attachments/assets/340ec30e-ded1-42f7-a1a8-3f9843aa195f" />
+![데이터](https://github.com/user-attachments/assets/7bb1535c-0060-4a4e-94c6-0639b2cf2af7)
+
 
 러닝을 시작하면 자동으로 평균페이스 킬로미터 심박수 발걸음수 등 사용자의 신체데이터를 실시간으로 전달
