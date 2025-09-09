@@ -6,6 +6,7 @@
 5. 회원들의 시즌별로의 첼린지등을 넣어 티어를 나눈다
 6. 실시간 위치정보를 제공해준다.
 
+
 ![로그인페이지](https://github.com/user-attachments/assets/0323c450-a209-49b4-92fb-989c40a8325a)
 로그인 페이지 생성 </span>
 
@@ -30,3 +31,5 @@
 ![티어1](https://github.com/user-attachments/assets/f19646f7-976b-491b-bf99-fbc6fe2e4356)
 시즌별로 기간을 정해 가장많이 뛴 사람들 기준으로 티어를 부여해준다. (경쟁심을 더 자극하고 거기에 따른 혜택부여)
 
+
+데이터 컬려명 : playerList, HeartRate, pace, height, weight, name, addr, Gps, 
