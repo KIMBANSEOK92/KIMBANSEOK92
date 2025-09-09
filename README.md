@@ -25,5 +25,5 @@
 
 러닝을 시작하면 자동으로 평균페이스 킬로미터 심박수 발걸음수 등 사용자의 신체데이터를 실시간으로 전달
 
-![티어](https://github.com/user-attachments/assets/9f27bf70-9e5c-4d1e-b95c-befcdef377fe)
+![티어1](https://github.com/user-attachments/assets/ddc53efd-9d70-4295-bade-84f57a258ee0)
 시즌별로 기간을 정해 가장많이 뛴 사람들 기준으로 티어를 부여해준다. (경쟁심을 더 자극하고 거기에 따른 혜택부여)
