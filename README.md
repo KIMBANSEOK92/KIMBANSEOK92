@@ -41,4 +41,4 @@
 시즌별로 기간을 정해 가장많이 뛴 사람들 기준으로 티어를 부여해준다. (경쟁심을 더 자극하고 거기에 따른 혜택부여)
 
 
-데이터 컬려명 : playerList, HeartRate, pace, height, weight, name, addr, Gps, 
+데이터 컬럼명 : playerList, HeartRate, pace, height, weight, name, addr, Gps, 
