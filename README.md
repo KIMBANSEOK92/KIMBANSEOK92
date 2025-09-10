@@ -36,6 +36,8 @@
 
 
 ![티어1](https://github.com/user-attachments/assets/f19646f7-976b-491b-bf99-fbc6fe2e4356)
+
+
 시즌별로 기간을 정해 가장많이 뛴 사람들 기준으로 티어를 부여해준다. (경쟁심을 더 자극하고 거기에 따른 혜택부여)
 
 
