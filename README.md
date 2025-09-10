@@ -19,11 +19,16 @@
 메인페이지
 
 ![러닝화 추천](https://github.com/user-attachments/assets/c03c673f-d209-40f3-8ece-f9abca33f958)
+
+
 실시간 위치를 제공함으로써 러닝회원들의 효율적인 코스 안내를 원활히 할 수 있게끔 도와주기
 
 ![데이터](https://github.com/user-attachments/assets/00654741-ea0c-42e4-99c6-82bc88b164af)
 
+
 러닝회원의 실시간 심박수와 페이스 발걸음수 뛴 km등을 안내해준다
+
+
 <img width="773" height="1673" alt="데이터1" src="https://github.com/user-attachments/assets/e7a2e537-0dee-48ff-8d61-99162a478f50" />
 
 
