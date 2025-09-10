@@ -12,6 +12,7 @@
 로그인 페이지 생성 </span>
 
 <img width="902" height="663" alt="회원가입페이지" src="https://github.com/user-attachments/assets/14b5438d-d36d-4ff8-af29-0ee4503f06ba" />
+
 회원가입페이지 생성
 
 ![러닝메인사이트](https://github.com/user-attachments/assets/61867ca7-fc41-4621-9643-192168d8aa46)
