@@ -19,7 +19,8 @@
 
 회원가입페이지 생성
 
-![러닝메인사이트](https://github.com/user-attachments/assets/61867ca7-fc41-4621-9643-192168d8aa46)
+<img width="1144" height="560" alt="메인페이지" src="https://github.com/user-attachments/assets/81bab70d-e133-4e3f-8498-52ddde58cb21" />
+
 메인페이지
 
 ![러닝화 추천](https://github.com/user-attachments/assets/c03c673f-d209-40f3-8ece-f9abca33f958)
