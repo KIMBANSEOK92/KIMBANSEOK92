@@ -45,6 +45,8 @@
 
 시즌별로 기간을 정해 가장많이 뛴 사람들 기준으로 티어를 부여해준다. (경쟁심을 더 자극하고 거기에 따른 혜택부여)
 
+<img width="800" height="415" alt="64564" src="https://github.com/user-attachments/assets/ee9d46d8-12e3-4ab1-bec9-3c73c2e32fe3" />
+마이페이지 계정상세 회원탈퇴 추천등을 보여준다
 
 메인 - 카테고리 사이트소개, 게시판, 
 
