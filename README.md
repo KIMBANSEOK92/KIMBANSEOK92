@@ -1,6 +1,6 @@
 ![이미지네임](https://github.com/KIMBANSEOK92/KIMBANSEOK92/blob/main/img/%EB%AF%B8%EB%9E%98.jpg)
 ---
-###### ☞ 안녕하세요. 지속발전가능한 늦둥이 개발자입니다.
+# ☞ 안녕하세요. 지속발전가능한 늦둥이 개발자입니다.
 ---
 
 ### 라인 
