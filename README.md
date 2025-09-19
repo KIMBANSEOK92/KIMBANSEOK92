@@ -1,4 +1,4 @@
-![이미지네임](https://github.com/KIMBANSEOK92/KIMBANSEOK92/blob/main/img/img1.png)
+![이미지네임](https://github.com/KIMBANSEOK92/KIMBANSEOK92/blob/main/img/%EB%A9%94%EC%9D%B8%EB%B0%B0%EA%B2%BD.jpg alt="이미지네임" width="500")
 ---
 ###### ☞ 안녕하세요. 지속발전가능한 늦둥이 개발자입니다.
 ---
