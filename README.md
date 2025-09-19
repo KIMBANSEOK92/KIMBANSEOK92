@@ -1,14 +1,7 @@
 ![Markdown-badge-kohasummons-stripped-image](https://user-images.githubusercontent.com/66284362/159115513-3ae48dd6-3d9c-416f-83d4-db48de23fac8.png)
 # sample
 
-### 줄바꿈
-줄바꿈은 엔터 2번(공백 1줄) 있어야
-합니다.
-
-이렇게
-
----
-### 제목 (# 이용하기, 새로운 줄에서 #을 입력하고 제목 작성하기. #의 개수에 따라 크기 달라짐)
+### 제목 (# 안녕하세요. 지속발전가능한 늦둥이 개발자입니다.)
 
 # 1개
 ## 2개
