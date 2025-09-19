@@ -1,7 +1,7 @@
-![이미지네임](https://github.com/KIMBANSEOK92/KIMBANSEOK92/blob/main/img/%EB%AF%B8%EB%9E%98.jpg)
+<![이미지네임](https://github.com/KIMBANSEOK92/KIMBANSEOK92/blob/main/img/%EB%AF%B8%EB%9E%98.jpg)
 ---
-              # ☞ 안녕하세요. 지속발전가능한 늦둥이 개발자입니다.
----
+<h1 align="center"> ☞ 안녕하세요. 지속발전가능한 늦둥이 개발자입니다.
+
 
 ### 라인 
 -(하이픈) 이나 *(별, 아스터리스크) 를 3개이상 작성하면 됩니다.
