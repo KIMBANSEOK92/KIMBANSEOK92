@@ -1,7 +1,7 @@
 ![Markdown-badge-kohasummons-stripped-image](https://user-images.githubusercontent.com/66284362/159115513-3ae48dd6-3d9c-416f-83d4-db48de23fac8.png)
 # sample
 
-###(# 안녕하세요. 지속발전가능한 늦둥이 개발자입니다.)
+#### (☞ 안녕하세요. 지속발전가능한 늦둥이 개발자입니다.)
 
 # 1개
 ## 2개
