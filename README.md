@@ -54,6 +54,17 @@ RUNNERS HOUSE는 단순한 러닝 용품 쇼핑몰이 아닙니다.
 고객 문의 관리: 문의 통합 관리 및 실시간 답변 등록
 커뮤니티 관리: 신고 게시글 모니터링, 트렌드 키워드 분석
 
+# ⏳ 개발 기간
+| 기간 | 주요 진행 내용 |
+|------|----------------|
+| **2025.10.23 ~ 2025.10.27** | 🧭 **프로젝트 기획 및 설계** <br> - 사이트 구조 기획 및 역할 분담 <br> - Figma를 통한 페이지 플로우 및 디자인 시안 제작 <br> - 구글 드라이브를 활용한 문서화 및 회의록 정리 <br> ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) |
+| **2025.10.28 ~ 2025.11.02** | 💻 **기본 레이아웃 및 관리자(Admin) 페이지 개발** <br> - Spring Boot 기반 환경 세팅 및 폴더 구조 구성 <br> - `/admin` 페이지 공통 헤더·푸터 및 로그인 레이아웃 구현 |
+| **2025.11.03 ~ 2025.11.07** | 🛍️ **사용자(Home) 페이지 코딩 및 기능 구현** <br> - `/home` 주요 페이지 (메인, 상품, 커뮤니티 등) 제작 <br> - 공통 CSS/JS 및 반응형 스타일 적용 |
+| **2025.11.08 ~ 2025.11.09** | 🧩 **기능 통합 및 오류 점검** <br> - 관리자·사용자 페이지 연결 및 데이터 연동 테스트 <br> - UI/UX 피드백 반영 및 개선 |
+| <div align="center">**2025.11.10 (월)**</div>| 🚀 **최종 점검 및 배포 준비** <br> - 전체 페이지 최종 리뷰 및 기능 확인 <br> - GitHub 업로드 및 README 최종 정리 |
+
+🗓️ **총 개발 기간:** 2025년 10월 23일 ~ 11월 10일 (약 3주간)
+
 #### 프로젝트 README : https://github.com/kkomi211/springProject2025.git
 
 ---
