@@ -68,7 +68,6 @@ RUNNERS HOUSE는 단순한 러닝 용품 쇼핑몰이 아닙니다.
 #### 프로젝트 README : https://github.com/kkomi211/springProject2025.git
 
 <br>
----
 
 # React 개인프로젝트 SNS
 
