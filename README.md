@@ -9,7 +9,9 @@
 - 🎏 사람과 사람사이에는 신뢰가 중요하므로 신뢰를 중요시 생각합니다.
 - 👟 모든 일에는 시간약속이 중요하다고 생각하고 지키는게 가장 기본이라고 생각합니다.
 
-#### 🎆 Tech Stack
+<br>
+
+### 🎆 Tech Stack
 | 분류 | 종류 | 
 |------|------|
 | **Backend** | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
