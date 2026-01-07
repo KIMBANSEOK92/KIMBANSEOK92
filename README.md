@@ -131,7 +131,8 @@ RUNNERS HOUSE는 단순한 러닝 용품 쇼핑몰이 아닙니다.
 
 
 #### 프로젝트 README : https://github.com/yeseul1008/FlutterTeamProject.git
-<br>
+
+----
 
   ### ✉️ Contact
 - 📫 Email: scv9364@naver.com  
